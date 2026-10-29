@@ -1,16 +1,252 @@
-## Hi there 👋
+<!-- ===================== HEADER ===================== -->
 
-<!--
-**ChetanRawat07/ChetanRawat07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Chetan%20Rawat&fontSize=55&fontAlignY=35&desc=Backend%20Developer%20%7C%20Node.js%20%7C%20NestJS%20%7C%20System%20Design&descAlignY=58&animation=fadeIn" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/ChetanRawat07">
+    <img src="https://komarev.com/ghpvc/?username=ChetanRawat07&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">👋 Hi, I'm Chetan Rawat</h2>
+
+<p align="center">
+  <b>Backend Developer</b> focused on building scalable APIs, backend systems and production-oriented applications.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/chetan-rawat07/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ChetanRawat07">
+    <img src="https://img.shields.io/badge/GitHub-ChetanRawat07-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Backend Developer who enjoys designing APIs, working with databases,
+building asynchronous workflows and understanding how scalable systems work.
+
+- 💼 Working as an **Assistant Software Engineer**
+- 🔧 Focused on **Backend Development**
+- 🚀 Building applications with **Node.js, Express.js and NestJS**
+- 🗄️ Working with **SQL, PostgreSQL, MySQL and MongoDB**
+- ⚡ Exploring **Redis, RabbitMQ and asynchronous processing**
+- 🐳 Working with **Docker** and containerized development
+- 🧠 Currently improving **System Design & Data Structures**
+- 🤖 Building **DocuMind**, an AI-powered document intelligence platform
+- 📚 Interested in distributed systems, backend architecture and scalable software
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,js,ts" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind" />
+</p>
+
+### Databases & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,rabbitmq,docker,aws" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 DocuMind
+
+> AI-powered document intelligence platform for processing business documents.
+
+DocuMind is a portfolio project designed around a production-style backend architecture.
+
+It supports the foundation for:
+
+- 📄 Document processing
+- 🔐 Authentication & authorization
+- 🗄️ PostgreSQL data modeling
+- 🔄 Background worker architecture
+- 🧩 Shared API contracts
+- 📝 Audit logging
+- 🛡️ Ownership and authorization controls
+- 🧪 Automated testing
+- 🐳 Docker-based local infrastructure
+
+### Tech Stack
+
+`NestJS` `React` `TypeScript` `PostgreSQL` `Kysely` `Supabase Auth` `Docker` `Zod` `Vitest`
+
+🔗 **[View DocuMind →](https://github.com/ChetanRawat07/DocuMind)**
+
+> Currently being developed phase-by-phase with a focus on backend architecture,
+> security, scalability and production-oriented engineering.
+
+---
+
+## 🧠 Quiz App
+
+An interactive memory-based quiz game built using vanilla web technologies.
+
+### Features
+
+- 🃏 Card flipping
+- ⏱️ Live timer
+- 🔢 Step tracking
+- 🔄 Restart functionality
+- ✨ Smooth animations
+
+### Tech Stack
+
+`HTML` `CSS` `JavaScript`
+
+🔗 **[View Quiz App →](https://github.com/ChetanRawat07/Quiz-App)**
+
+---
+
+# 🧠 What I'm Currently Learning
+
+```text
+Backend Engineering
+        ↓
+Node.js → NestJS → APIs → Databases
+        ↓
+Redis → RabbitMQ → Async Processing
+        ↓
+Docker → Cloud → Distributed Systems
+        ↓
+System Design → Scalability → Reliability
+```
+
+### Current Focus
+
+- 📐 System Design
+- 🧩 Data Structures & Algorithms
+- ⚡ Advanced Node.js
+- 🏗️ Backend Architecture
+- 🔄 Message Queues & Async Processing
+- 🗄️ Database Design & Optimization
+- ☁️ Cloud & Infrastructure
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ChetanRawat07&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanRawat07&layout=compact&hide_border=true&langs_count=8" />
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ChetanRawat07&hide_border=true" />
+</p>
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChetanRawat07&hide_border=true&area=true" />
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ChetanRawat07&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" />
+</p>
+
+---
+
+# 💡 Engineering Interests
+
+```text
+Scalable APIs
+     │
+     ├── Authentication & Authorization
+     ├── Database Design
+     ├── Caching
+     ├── Message Queues
+     ├── Background Workers
+     ├── Distributed Systems
+     ├── System Design
+     └── Cloud Infrastructure
+```
+
+I enjoy understanding not only **how to build a feature**, but also:
+
+> How will it behave when 10x more users start using it?
+
+---
+
+# 📌 My Development Philosophy
+
+```text
+Write clean code.
+        ↓
+Understand the problem.
+        ↓
+Design before implementing.
+        ↓
+Think about failure cases.
+        ↓
+Measure performance.
+        ↓
+Build systems that can scale.
+```
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/chetan-rawat07/">
+  <img src="https://img.shields.io/badge/LinkedIn-Chetan%20Rawat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/ChetanRawat07">
+  <img src="https://img.shields.io/badge/GitHub-ChetanRawat07-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>Building today. Learning every day. Designing for tomorrow. 🚀</i>
+</p>
+
+<p align="center">
+  ⭐ If you find something useful here, consider giving the repository a star!
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
