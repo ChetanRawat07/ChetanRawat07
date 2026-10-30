@@ -149,35 +149,10 @@ System Design → Scalability → Reliability
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ChetanRawat07&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanRawat07&layout=compact&hide_border=true&langs_count=8" />
-</p>
-
----
-
 # 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ChetanRawat07&hide_border=true" />
-</p>
-
----
-
-# 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChetanRawat07&hide_border=true&area=true" />
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChetanRawat07&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" />
 </p>
 
 ---
