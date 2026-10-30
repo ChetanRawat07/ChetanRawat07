@@ -70,6 +70,15 @@ building asynchronous workflows and understanding how scalable systems work.
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 
+### AI-Assisted Development
+
+- 🖥️ **Cursor** — AI-powered development and code assistance
+- 🤖 **Claude** — AI-assisted coding, debugging and architecture exploration
+
+---
+
+# 🚀 Featured Projects
+
 ---
 
 # 🚀 Featured Projects
@@ -103,15 +112,15 @@ It supports the foundation for:
 
 ---
 
-## 🧠 Quiz App
+## 🃏 Flip & Match
 
-An interactive memory-based quiz game built using vanilla web technologies.
+An interactive card-matching memory game built using vanilla web technologies.
 
 ### Features
 
-- 🃏 Card flipping
+- 🃏 Card flipping and matching
 - ⏱️ Live timer
-- 🔢 Step tracking
+- 🔢 Move tracking
 - 🔄 Restart functionality
 - ✨ Smooth animations
 
@@ -119,7 +128,7 @@ An interactive memory-based quiz game built using vanilla web technologies.
 
 `HTML` `CSS` `JavaScript`
 
-🔗 **[View Quiz App →](https://github.com/ChetanRawat07/Quiz-App)**
+🔗 **[View Flip & Match →](https://github.com/ChetanRawat07/Flip-and-Match)**
 
 ---
 
@@ -214,10 +223,6 @@ Build systems that can scale.
 
 <p align="center">
   <i>Building today. Learning every day. Designing for tomorrow. 🚀</i>
-</p>
-
-<p align="center">
-  ⭐ If you find something useful here, consider giving the repository a star!
 </p>
 
 <!-- ===================== FOOTER ===================== -->
