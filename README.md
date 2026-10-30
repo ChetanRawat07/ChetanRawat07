@@ -72,8 +72,15 @@ building asynchronous workflows and understanding how scalable systems work.
 
 ### AI-Assisted Development
 
-- 🖥️ **Cursor** — AI-powered development and code assistance
-- 🤖 **Claude** — AI-assisted coding, debugging and architecture exploration
+<p>
+  <img src="https://skillicons.dev/icons?i=cursor" height="48" />
+  <b>Cursor</b> — AI-powered development and code assistance
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=claude" height="48" />
+  <b>Claude</b> — AI-assisted coding, debugging and architecture exploration
+</p>
 
 ---
 
