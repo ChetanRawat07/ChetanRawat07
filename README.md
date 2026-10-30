@@ -44,8 +44,6 @@ building asynchronous workflows and understanding how scalable systems work.
 
 ---
 
-## 🛠️ Tech Stack
-
 ### Backend
 
 <p>
@@ -73,18 +71,12 @@ building asynchronous workflows and understanding how scalable systems work.
 ### AI-Assisted Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cursor" height="48" />
-  <b>Cursor</b> — AI-powered development and code assistance
+  <img src="https://www.cursor.com/favicon.ico" height="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Claude_AI_logo.svg" height="48" />
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=claude" height="48" />
-  <b>Claude</b> — AI-assisted coding, debugging and architecture exploration
-</p>
-
----
-
-# 🚀 Featured Projects
+- 🖥️ **Cursor** — AI-powered development and code assistance
+- 🤖 **Claude** — AI-assisted coding, debugging and architecture exploration
 
 ---
 
