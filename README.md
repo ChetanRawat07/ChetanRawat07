@@ -1,3 +1,4 @@
+
 <!-- ===================== HEADER ===================== -->
 
 <p align="center">
@@ -84,30 +85,82 @@ building asynchronous workflows and understanding how scalable systems work.
 
 ## 🤖 DocuMind
 
-> AI-powered document intelligence platform for processing business documents.
+> AI-powered document intelligence platform that transforms unstructured business documents into structured, validated and traceable data.
 
-DocuMind is a portfolio project designed around a production-style backend architecture.
+**DocuMind** is a full-stack AI document intelligence platform designed to automate document processing and information extraction while maintaining transparency and traceability.
 
-It supports the foundation for:
+Users can upload PDF, JPEG and PNG documents, extract meaningful information using OCR and LLM-powered processing, and review structured results through an interactive interface.
 
-- 📄 Document processing
-- 🔐 Authentication & authorization
-- 🗄️ PostgreSQL data modeling
-- 🔄 Background worker architecture
-- 🧩 Shared API contracts
-- 📝 Audit logging
-- 🛡️ Ownership and authorization controls
-- 🧪 Automated testing
-- 🐳 Docker-based local infrastructure
+### ✨ Key Features
 
-### Tech Stack
+- 📄 **Multi-format Document Processing** — Support for PDF, JPEG and PNG uploads.
+- 🔍 **OCR-based Text Extraction** — Extract text and content from uploaded documents.
+- 🤖 **AI-powered Information Extraction** — Convert unstructured document content into structured information.
+- 📊 **Structured JSON Output** — Organize extracted information into usable data.
+- 🎯 **Source-level Traceability** — Select an extracted field to highlight its original location inside the document.
+- ✅ **Data Validation** — Validate extracted information against defined schemas.
+- 🔎 **Human Review** — Review and verify extracted information.
+- 📁 **Document Management** — Manage documents and their processing results.
+- ⚡ **Asynchronous Processing** — Process document workloads using background jobs and message queues.
+- 🔐 **Authentication & Authorization** — Protect application resources and user access.
 
-`NestJS` `React` `TypeScript` `PostgreSQL` `Kysely` `Supabase Auth` `Docker` `Zod` `Vitest`
+### 🏗️ Processing Architecture
 
-🔗 **[View DocuMind →](https://github.com/ChetanRawat07/DocuMind)**
+```text
+Document Upload
+      │
+      ▼
+File Storage
+      │
+      ▼
+Processing Queue
+      │
+      ▼
+OCR / Text Extraction
+      │
+      ▼
+LLM-based Data Extraction
+      │
+      ▼
+Data Validation
+      │
+      ▼
+Structured JSON
+      │
+      ▼
+Interactive Review
+      │
+      ▼
+Source-level Highlighting
+```
 
-> Currently being developed phase-by-phase with a focus on backend architecture,
-> security, scalability and production-oriented engineering.
+### 🛠️ Tech Stack
+
+**Frontend:** React, TypeScript, Vite, Tailwind CSS
+
+**Backend:** NestJS, TypeScript, REST APIs
+
+**Database:** PostgreSQL, Kysely
+
+**Authentication:** Supabase Auth
+
+**Infrastructure:** Docker, Object Storage, RabbitMQ
+
+**Validation & Testing:** Zod, Vitest
+
+**AI Processing:** OCR and LLM Integration
+
+### 💡 What Makes DocuMind Different?
+
+Most document extraction systems focus on extracting information. DocuMind takes this further by connecting extracted values to their original source.
+
+Users can click an extracted field and immediately see where that information appears in the original document.
+
+This makes AI-powered extraction more transparent, explainable and easier to verify.
+
+🔗 **[Explore DocuMind Repository →](https://github.com/ChetanRawat07/DocuMind)**
+
+<sub>Project Status: Completed 🚀</sub>
 
 ---
 
@@ -135,13 +188,13 @@ An interactive card-matching memory game built using vanilla web technologies.
 
 ```text
 Backend Engineering
-        ↓
+       ↓
 Node.js → NestJS → APIs → Databases
-        ↓
+       ↓
 Redis → RabbitMQ → Async Processing
-        ↓
+       ↓
 Docker → Cloud → Distributed Systems
-        ↓
+       ↓
 System Design → Scalability → Reliability
 ```
 
@@ -169,15 +222,15 @@ System Design → Scalability → Reliability
 
 ```text
 Scalable APIs
-     │
-     ├── Authentication & Authorization
-     ├── Database Design
-     ├── Caching
-     ├── Message Queues
-     ├── Background Workers
-     ├── Distributed Systems
-     ├── System Design
-     └── Cloud Infrastructure
+    │
+    ├── Authentication & Authorization
+    ├── Database Design
+    ├── Caching
+    ├── Message Queues
+    ├── Background Workers
+    ├── Distributed Systems
+    ├── System Design
+    └── Cloud Infrastructure
 ```
 
 I enjoy understanding not only **how to build a feature**, but also:
@@ -190,15 +243,15 @@ I enjoy understanding not only **how to build a feature**, but also:
 
 ```text
 Write clean code.
-        ↓
+       ↓
 Understand the problem.
-        ↓
+       ↓
 Design before implementing.
-        ↓
+       ↓
 Think about failure cases.
-        ↓
+       ↓
 Measure performance.
-        ↓
+       ↓
 Build systems that can scale.
 ```
 
