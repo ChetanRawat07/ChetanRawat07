@@ -150,17 +150,7 @@ Source-level Highlighting
 
 **AI Processing:** OCR and LLM Integration
 
-### 💡 What Makes DocuMind Different?
-
-Most document extraction systems focus on extracting information. DocuMind takes this further by connecting extracted values to their original source.
-
-Users can click an extracted field and immediately see where that information appears in the original document.
-
-This makes AI-powered extraction more transparent, explainable and easier to verify.
-
 🔗 **[Explore DocuMind Repository →](https://github.com/ChetanRawat07/DocuMind)**
-
-<sub>Project Status: Completed 🚀</sub>
 
 ---
 
