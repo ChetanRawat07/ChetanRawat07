@@ -129,9 +129,6 @@ Structured JSON
       │
       ▼
 Interactive Review
-      │
-      ▼
-Source-level Highlighting
 ```
 
 ### 🛠️ Tech Stack
